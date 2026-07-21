@@ -1,8 +1,8 @@
 # AI Study Assistant
 
 ## Team Members
-- Your Name
-- Teammate's Name
+- KISHORE REDDY GAYAL
+- NIXAN RAJ PAMBA
 
 ## Project Description
 AI Study Assistant is a web application that allows users to upload PDF and PPT files, ask questions about them, generate summaries, and create MCQs using AI.
